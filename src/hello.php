@@ -1,5 +1,7 @@
 <?php
 
-echo 'this is a test';
+function say(){
+  return 'world';
+}
 
 ?>
