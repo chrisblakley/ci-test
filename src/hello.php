@@ -1,6 +1,6 @@
 <?php
 
-function say(){
+function world(){
   return 'world';
 }
 
